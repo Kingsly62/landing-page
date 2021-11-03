@@ -1,0 +1,67 @@
+.sidenav{
+    height: 70%;
+    width: 170px;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 26px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1f1;
+}
+
+.profile{
+    margin-left: 160px;
+    font-size: 28px;
+    padding: 0px 300px;
+}
+
+.home {
+    background-image: url(/Images/baack2.jpg);
+    padding: 40px ;
+}
+
+.about{
+    padding: 50px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(/Images/back5.jpg);
+    color: saddlebrown;
+    
+}
+
+.projects{
+    padding: 50px;
+    background-color: sandybrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+#contact1{
+   align-content: center; 
+   color: seagreen;
+}
+
+.contact{
+    padding: 40px;
+    background-image: url(/Images/back4.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact h3{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
