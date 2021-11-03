@@ -1,5 +1,5 @@
 .sidenav{
-    height: 80%;
+    height: 70%;
     width: 170px;
     position: fixed;
     z-index: 1;
@@ -27,4 +27,8 @@
     margin-left: 160px;
     font-size: 28px;
     padding: 0px 300px;
+}
+
+.home {
+    background-image: url(/Images/baack2.jpg);
 }
